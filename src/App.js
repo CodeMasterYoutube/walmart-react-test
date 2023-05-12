@@ -4,7 +4,7 @@ function App() {
   {
     // Begin adding your code here
   }
-  return <div className="App"></div>;
+  return <div className="App">Hello World</div>;
 }
 
 export default App;
